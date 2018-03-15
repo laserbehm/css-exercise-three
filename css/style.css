@@ -46,11 +46,11 @@ nav {
 .content h1 {
   font-size: 1.75em;
   font-weight: bold;
-} /* This is for the restaurant names */
+} 
 
 .content h3 {
   font-size: 1.25em;
-} /* This is for restaurant addresses */
+}
 
 .arrow {
 width: 10%;
